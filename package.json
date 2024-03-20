@@ -1,0 +1,14 @@
+{
+  "name": "vscode-appscript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "pull": "clasp -P src/ pull",
+    "push": "clasp -P src/ push"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
